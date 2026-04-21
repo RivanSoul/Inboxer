@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Requests](https://img.shields.io/badge/Requests-v2.31+-blue?style=for-the-badge)](https://pypi.org/project/requests/)
-[![Multi-Threaded](https://img.shields.io/badge/Multi--Threaded-Fast-brightgreen?style=for-the-badge)](https://github.com/Ver3xl/Inboxer)
+[![Multi-Threaded](https://img.shields.io/badge/Multi--Threaded-Fast-brightgreen?style=for-the-badge)](https://github.com/RivanSoul/Inboxer)
 
 A high-performance, multi-threaded Microsoft account checker designed to scan Outlook inboxes for specific keywords. Built for speed and accuracy using pure Python requests.
 
